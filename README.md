@@ -13,9 +13,9 @@
 - https://apple.github.io/foundationdb/testing.html
 
 ### Property Based Testing
-Video: https://youtu.be/zi0rHwfiX1Q
-Paper: http://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf
-Haskell QuickCheck https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html
+- Video: https://youtu.be/zi0rHwfiX1Q
+- Paper: http://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf
+- Haskell QuickCheck https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html
 
 ### Blogs
 - https://martinfowler.com/testing/
