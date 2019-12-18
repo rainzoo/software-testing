@@ -13,9 +13,11 @@
 - https://apple.github.io/foundationdb/testing.html
 
 ### Property Based Testing
-- Video: https://youtu.be/zi0rHwfiX1Q
+- John Hughes - Testing the Hard Stuff and Staying Sane: https://youtu.be/zi0rHwfiX1Q
 - Paper: http://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf
 - Haskell QuickCheck https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html
+
+- Test Fast, Fix More Property based testing with Hypothesis by Alexander Hultnér: https://www.youtube.com/watch?v=MKf6KfdTems
 
 ### Blogs
 - https://martinfowler.com/testing/
