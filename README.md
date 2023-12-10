@@ -1,10 +1,13 @@
 # Software Testing Ideas and Tools
 
+Collection of resources, tools, and libraries related to testing software.
+Blogs, YouTube videos can get dated quicker than libraries.
+
 ## Learn
 
-- The Oracle Problem
-  - https://en.wikipedia.org/wiki/Test_oracle
-  - https://discovery.ucl.ac.uk/id/eprint/1471263/1/06963470.pdf
+- The Oracle Problem 
+  - https://en.wikipedia.org/wiki/Test_oracle 
+  - https://discovery.ucl.ac.uk/id/eprint/1471263/1/06963470.pdf 
 - https://en.wikipedia.org/wiki/Model-based_testing
 - https://en.wikipedia.org/wiki/Metamorphic_testing
 
@@ -38,13 +41,20 @@
 ## Test Automation
 
 ### Frameworks
-- Language Agnostic: https://gauge.org/
-- Python: https://docs.pytest.org/en/latest/
+- Language Agnostic: https://gauge.org
+- Python: https://docs.pytest.org
+- UI: [Selenim]https://www.selenium.dev),[Playwright](https://playwright.dev/)
 
 ### Build CLIs
 - https://click.palletsprojects.com/
 - https://typer.tiangolo.com/
 - Advanced TUI: https://www.textualize.io/
+
+### Test Rest APIs
+- API mocking https://stoplight.io/open-source/prism
+- Data generation: https://www.getsynth.com/
+- API Clients https://insomnia.rest, https://www.postman.com
+- 
 
 ### Parse CLI output
 - https://pypi.org/project/pyparsing/
