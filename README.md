@@ -16,7 +16,6 @@
 - John Hughes - Testing the Hard Stuff and Staying Sane: https://youtu.be/zi0rHwfiX1Q
 - Paper: http://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf
 - Haskell QuickCheck https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html
-
 - Test Fast, Fix More Property based testing with Hypothesis by Alexander Hultnér: https://www.youtube.com/watch?v=MKf6KfdTems
 
 ### Blogs
@@ -43,42 +42,38 @@
 - Python: https://docs.pytest.org/en/latest/
 
 ### Build CLIs
-- https://github.com/abseil/abseil-py
-- https://click.palletsprojects.com/en/7.x/
+- https://click.palletsprojects.com/
+- https://typer.tiangolo.com/
+- Advanced TUI: https://www.textualize.io/
 
 ### Parse CLI output
 - https://pypi.org/project/pyparsing/
 
-### Remote host 
-- https://github.com/dw/mitogen
-
-### SSL
-- https://www.ssllabs.com/projects/ssllabs-apis/
+### Execute Commands on Remote hosts
+- https://www.fabfile.org/
+- [Mitogen](https://mitogen.networkgenomics.com/)
 
 ### Testing Libraries
 - Property based testing: https://hypothesis.readthedocs.io/en/latest/
-- Load: https://locust.io/
+- Load Testing: https://locust.io/
 - Code Coverage: https://github.com/nedbat/coveragepy
-
-### Reporting
-- Tests :http://allure.qatools.ru/
-- Tests: https://extentreports.com/
-- Error Reporting: https://github.com/getsentry/sentry
 
 ### Fuzzing
 - http://lcamtuf.coredump.cx/afl/
 - https://github.com/google/clusterfuzz
 
-### Linux
+### Linux 
 - https://github.com/linux-test-project
 - https://linux-test-project.github.io/
 
 ### File Systems
-- https://github.com/axboe/fio
 - From MacOS: https://macosforge.github.io/fstools/tools/
   - fsTorture
   - fsx
 - https://github.com/pjd/pjdfstest
+- Block and some file IO: https://github.com/axboe/fio
+- https://wiki.lustre.org/VDBench
+- https://github.com/filebench/filebench (No longer active)
 
 ### Windows
 - Disk, I/O: https://github.com/Microsoft/diskspd
@@ -91,3 +86,9 @@
 
 ### Code Quality
 - https://www.sonarqube.org/
+- https://github.com/astral-sh/ruff
+
+### Reporting
+- Tests :http://allure.qatools.ru/
+- Tests: https://extentreports.com/
+- Error Reporting: https://github.com/getsentry/sentry
